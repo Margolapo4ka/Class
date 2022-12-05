@@ -1,0 +1,6 @@
+new_scores.txt
+Washington 88
+Adams 91
+test.txt
+COLOURS
+Pink goat
